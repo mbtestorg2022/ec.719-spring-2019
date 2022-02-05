@@ -4,19 +4,529 @@ title: Calendar
 uid: d936bcba-5b2b-6c50-7ea9-9b8e9207a3bc
 ---
 
-| Week # | Topics | Lectures | Action Learning, Demos, Games, & Term Projects | Key Dates |
-| --- | --- | --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction & Weather Story {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Class Intros and Your Weather Story {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Term Projects: Expectations and Deliverables {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Water, Climate Change, and Health Intro {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} What Makes a Planet Habitable? Planetary Boundaries {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Project Profiles {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Climate 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Earth's Climate History {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Project Profiles (cont.) {{< br >}}{{< br >}} Present and Discuss Favorite Drawdown Solution(s) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Climate 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 10,000 Years Ago to Present {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Discussion of Project Ideas & Favorite Drawdown Solution(s) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} MIT Water Night Event (Optional) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Climate 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Atmospheric and Oceanic General Circulation Models {{< br >}}{{< br >}} Guest Lecture: Kasturi Shah, MIT Graduate Student {{< br >}}{{< br >}}  | &nbsp; |  {{< br >}}{{< br >}} Due: 1st Deliverable {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Climate 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Future Projections {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Demo: Soil Carbon Sponge Demo {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Field Trip #1: Blue Hill Meteorological Observatory (Optional) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Water & Climate Change {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Climate Change, Human, and Planetary Health Through the Lens of Water {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Project Updates {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Due: 2nd Deliverable {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Game {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} No lecture {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Team Project Updates {{< br >}}{{< br >}} "Save the World in 120 Minutes" Simulation Game {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} One Health {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} One Health {{< br >}}{{< br >}} Guest Lecture: [Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University](http://vetprofiles.tufts.edu/faculty/janetrix-hellen-amuguni) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Storm Water Management {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} No lecture {{< br >}}{{< br >}}  | &nbsp; |  {{< br >}}{{< br >}} Field Trip #2: MWRA Storm Water Management, Combined Sewer Overflows {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Oceans {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Ocean Acidification {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Renewable Energy (Background to Field Trip #3) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Due: 3rd Deliverable {{< br >}}{{< br >}} MIT Climate Night Event (Optional) {{< br >}}{{< br >}} Field Trip #3: Hull Wind Energy (Optional) {{< br >}}{{< br >}} Field Trip #4: [City Nature Challenge](http://citynaturechallenge.org/) (Optional) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Climate & Sustainability {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Two Steps Forward and One Step Back: How the World is Doing in Addressing Climate Change and Related Sustainability Issues {{< br >}}{{< br >}} Guest Lecture: [Bill Moomaw, Emeritus Professor of International Environmental Policy at Tufts University](https://fletcher.tufts.edu/people/william-moomaw) {{< br >}}{{< br >}} MIT’s Climate Action Plan and Massachusetts Climate Action {{< br >}}{{< br >}} Guest Lecture: [Curt Newton, MIT Climate Action Advisory Committee, 350 Massachusetts](https://climate.mit.edu/users/curt-newton) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} SLR Case Study {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} A Sea Level Rise and Flooding in Coastal Cities Case Study: Boston {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Low Carbon Home {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} No lecture {{< br >}}{{< br >}}  | &nbsp; |  {{< br >}}{{< br >}} Field Trip #5: See Solar Electric, Solar Thermal, and Geothermal Installations in a 100-Year Old Home {{< br >}}{{< br >}} Due: Final Deliverable {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Lectures
+{{< thclose >}}
+{{< thopen >}}
+Action Learning, Demos, Games, & Term Projects
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction & Weather Story
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class Intros and Your Weather Story
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Term Projects: Expectations and Deliverables
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Water, Climate Change, and Health Intro
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What Makes a Planet Habitable? Planetary Boundaries
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project Profiles
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Climate 1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Earth's Climate History
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project Profiles (cont.)
+
+Present and Discuss Favorite Drawdown Solution(s)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Climate 2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+10,000 Years Ago to Present
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of Project Ideas & Favorite Drawdown Solution(s)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MIT Water Night Event (Optional)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Climate 3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Atmospheric and Oceanic General Circulation Models
+
+Guest Lecture: Kasturi Shah, MIT Graduate Student
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Due: 1st Deliverable
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Climate 4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Future Projections
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Demo: Soil Carbon Sponge Demo
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Field Trip #1: Blue Hill Meteorological Observatory (Optional)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Water & Climate Change
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Climate Change, Human, and Planetary Health Through the Lens of Water
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project Updates
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Due: 2nd Deliverable
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Game
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No lecture
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Team Project Updates
+
+"Save the World in 120 Minutes" Simulation Game
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+One Health
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+One Health
+
+Guest Lecture: [Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University](http://vetprofiles.tufts.edu/faculty/janetrix-hellen-amuguni)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Storm Water Management
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No lecture
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Field Trip #2: MWRA Storm Water Management, Combined Sewer Overflows
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Oceans
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ocean Acidification
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Renewable Energy (Background to Field Trip #3)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Due: 3rd Deliverable
+
+MIT Climate Night Event (Optional)
+
+Field Trip #3: Hull Wind Energy (Optional)
+
+Field Trip #4: [City Nature Challenge](http://citynaturechallenge.org/) (Optional)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Climate & Sustainability
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Two Steps Forward and One Step Back: How the World is Doing in Addressing Climate Change and Related Sustainability Issues
+
+Guest Lecture: [Bill Moomaw, Emeritus Professor of International Environmental Policy at Tufts University](https://fletcher.tufts.edu/people/william-moomaw)
+
+MIT’s Climate Action Plan and Massachusetts Climate Action
+
+Guest Lecture: [Curt Newton, MIT Climate Action Advisory Committee, 350 Massachusetts](https://climate.mit.edu/users/curt-newton)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+SLR Case Study
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+A Sea Level Rise and Flooding in Coastal Cities Case Study: Boston
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Low Carbon Home
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No lecture
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Field Trip #5: See Solar Electric, Solar Thermal, and Geothermal Installations in a 100-Year Old Home
+
+Due: Final Deliverable
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
