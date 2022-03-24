@@ -104,7 +104,7 @@ Climate 1
 
 \[M\] Chapters 1–3.
 
-Emanuel, Kerry. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Climate Science and Climate Risk: A Primer (PDF - 6.5MB)](ftp://texmex.mit.edu/pub/emanuel/PAPERS/Climate_Primer.pdf)." pp 1–7.
+Emanuel, Kerry. "[Climate Science and Climate Risk: A Primer (PDF - 6.5MB)](ftp://texmex.mit.edu/pub/emanuel/PAPERS/Climate_Primer.pdf)." pp 1–7.
 
 Hawken, Paul. ed. _Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming._ Penguin Books, New York, 2017. ISBN: 9780143130444.
 
@@ -246,7 +246,7 @@ Game
 {{< tdopen >}}
 
 
-Meadows, Donella, Dennis Meadows, et al.![This resource may not render correctly in a screen reader.](/images/inacessible.gif) _[The Limits to Growth](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf)_ [(PDF - 43.4MB)](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf). Universe Books, New York, 1974. ISBN: 9780876639016. 
+Meadows, Donella, Dennis Meadows, et al. _[The Limits to Growth](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf)_ [(PDF - 43.4MB)](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf). Universe Books, New York, 1974. ISBN: 9780876639016. 
 
 _Recommended:_ 
 
@@ -282,7 +282,7 @@ Barrett, Meredith and Steven Osofsky. "One Health: Interdependence of People, Ot
 
 _Recommended:_
 
-Papadopoulos, Andrew and Sarah Wilmer. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[One Health: A Primer (PDF)](http://ncceh.ca/sites/default/files/One_Health_Primer_Nov_2011_0.pdf)." _National Collaborating Centre for Environmental Health_. 2011. 
+Papadopoulos, Andrew and Sarah Wilmer. "[One Health: A Primer (PDF)](http://ncceh.ca/sites/default/files/One_Health_Primer_Nov_2011_0.pdf)." _National Collaborating Centre for Environmental Health_. 2011. 
 
 Aguirre, Alonso and Gary Tabor. "[Global Factors Driving Emerging Infectious Diseases](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1428.052)." _Animal Biodiversity and Emerging Diseases Prediction and Preventio_n 1149 (2008), 1–3. 
 
