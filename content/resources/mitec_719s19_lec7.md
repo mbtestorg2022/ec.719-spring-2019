@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ec-719-d-lab-water-climate-change-and-health-spring-2019/10939816b6f33c7474646f98f74755ca_MITEC_719S19_lec7.pdf
 file_type: application/pdf
+parent_uid: 57b97a81-f4a6-3758-0cd6-a134df9061a9
 resourcetype: Document
 title: 'EC.719 D-Lab: Water, Climate Change, and Health, Lecture 7: Climate Change,
   Human, and Planetary Health Through the Lens of Water'

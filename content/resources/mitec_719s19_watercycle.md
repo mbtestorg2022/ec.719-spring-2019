@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: 'Diorama with falling rain; park setting on the left and asphalt on the
     right. '
+parent_uid: 23d843c9-3ebf-447e-36b7-d5d5f562bc61
 resourcetype: Image
 title: MITEC_719S19_watercycle.jpg
 uid: cb4bc4f1-539e-1f47-c275-c30929d8caa2

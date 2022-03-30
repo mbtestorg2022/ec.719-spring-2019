@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 40e1d48c-7e1d-3891-2dc5-a3fb01a39325
 resourcetype: Image
 title: chalkboard2.jpg
 uid: 4c678159-5c84-08ec-fd8f-9e1affc87319

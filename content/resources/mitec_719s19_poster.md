@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Poster on Green Infrastructure.
+parent_uid: 23d843c9-3ebf-447e-36b7-d5d5f562bc61
 resourcetype: Image
 title: MITEC_719S19_poster.jpg
 uid: c1190ff1-7495-e33b-17dc-06da4762325b
